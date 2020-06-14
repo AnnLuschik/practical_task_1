@@ -8,8 +8,8 @@
 ===============================================*/
 .circle {
     position: absolute;
-    width: 35%;
-    height: 35%;
+    width: 33%;
+    height: 33%;
     background-color: #ee220c;
     border-radius: 50%;
 }
